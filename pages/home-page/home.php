@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+		<a href="#">Menu</a><!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -25,7 +25,7 @@
 						</ul>
 					</div>
 					<div class="bar-icon">
-				
+						<a href="#"></a>
 					</div>
 				</div>
 			</div>
